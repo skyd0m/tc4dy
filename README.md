@@ -6,11 +6,11 @@
 # Hi there! I'm Tc4dy 👋
 
 <p align="left">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyMWx5bHFiNGVkMWtkdXdlc3F0b2doM2N5MnBiOXAyZmxhOTQ2bjBoZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yhOxNDg364F00MaqfX/giphy.gif" width="300" alt="Cybersecurity">
+  <img src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Frayo-mcqueen&ved=0CBUQjRxqFwoTCOjfgOC5tJQDFQAAAAAdAAAAABAF&opi=89978449" width="300" alt="Cybersecurity">
 </p>
 
 ## 🛡️ Cybersecurity & System Development
-**"Defeat the Established Order"** 🏴
+**"Defense through offensive research."** 🏴
 
 ---
 
@@ -18,7 +18,7 @@
 * **Exploitation & Research:** Linux Kernel Exploitation, Buffer Overflow (BoF), ROP Chains, Privilege Escalation (PrivEsc).
 * **Operating Systems:** Advanced Linux Hardening, Kernel Debugging, Windows Internals & Debloating.
 * **Malware & Privacy:** Anti-Spyware Development, Telemetry Removal, Reverse Engineering.
-* **Programming:** C, C++, Java, Python (With Scripting), Bash/PowerShell Automation.
+* **Programming:** C, C++, Java, **Python** (With Scripting), Bash/PowerShell Automation.
 
 ---
 
