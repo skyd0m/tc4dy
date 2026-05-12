@@ -1,6 +1,3 @@
-<h2>Active Project's | https://leavemyinternet.github.io 🔥 
-             https://beautifulsource.github.io 👾 https://ctfsupervisor.github.io 🔥</h2>
-
 <h1></h1>
 
 # Hi there! I'm Tc4dy 👋
@@ -41,4 +38,6 @@
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="FastAPI" />
 </p>
 
+<h2>Active Project's | https://leavemyinternet.github.io 🔥 
+             https://beautifulsource.github.io 👾 https://ctfsupervisor.github.io 🔥</h2>
 ---
