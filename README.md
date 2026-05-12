@@ -6,7 +6,7 @@
 # Hi there! I'm Tc4dy 👋
 
 <p align="left">
-  <img src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Frayo-mcqueen&ved=0CBUQjRxqFwoTCOjfgOC5tJQDFQAAAAAdAAAAABAF&opi=89978449" width="300" alt="Cybersecurity">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHNxM2dicm1uMHN1dzdtZmhtOHpiNDA4M3dzcDc4eDg3OTY2bXljMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ptWWlr7iCHOhi/giphy.gif" width="300" alt="Cybersecurity">
 </p>
 
 ## 🛡️ Cybersecurity & System Development
